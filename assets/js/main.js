@@ -9,7 +9,7 @@ function init() {
 function initialState() {
     window.state = {};
     window.state.data = {};
-    window.state.liveData = true;
+    window.state.liveData = false;
     window.state.loading = true;
     window.state.rendered = false;
 }
@@ -148,7 +148,9 @@ function groupComponent(group) {
             <thead>
             <tr class="table-info">
                 <th class="text-right" scope="col" colspan="2">${group.name}${groupName}</th>
-                <th class="text-left" scope="col" colspan="2">${date.strDate}</th>
+                <th scope="col"></th>
+                <th class="text-left" scope="col"></th>
+                <th scope="col" colspan="2"></th>
             </tr>
             </thead>
             <tbody>`;
@@ -161,10 +163,12 @@ function groupComponent(group) {
 function matchComponent(match) {
 
     return `<tr id="match-${match.id}">
+                <td class="text-right">${match.time}</td>
                 <td class="text-left">${match.away.name}</td>
                 <td class="bg-score" id="match-score-away-${match.id}" data-bs-target="${match.away.score}">${match.away.score}</td>
                 <td class="bg-score" id="match-score-home-${match.id}" data-bs-target="${match.home.score}">${match.home.score}</td>
                 <td class="text-right">${match.home.name}</td>
+                <td></td>
             </tr>`
 }
 
