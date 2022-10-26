@@ -1,0 +1,7129 @@
+[
+  {
+    "priorityId": 0,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "USA",
+    "id": 881538,
+    "primaryId": 0,
+    "name": "Major League Soccer Playoff",
+    "matches": [
+      {
+        "id": 4044416,
+        "leagueId": 0,
+        "time": "24.10.2022 02:00",
+        "home": {
+          "id": 0,
+          "score": 4,
+          "name": "Austin FC",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 4,
+          "name": "Dallas",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": true,
+          "started": true,
+          "cancelled": false,
+          "scoreStr": "2 - 1",
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": {
+            "short": "FT",
+            "long": "Full-Time"
+          },
+          "liveTime": null,
+          "startTimeStr": null
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 2,
+        "time_second": 0
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 0,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "ARG",
+    "id": 881621,
+    "primaryId": 0,
+    "name": "Federal A Promotion Playoff",
+    "matches": [
+      {
+        "id": 4051310,
+        "leagueId": 0,
+        "time": "23.10.2022 23:00",
+        "home": {
+          "id": 0,
+          "score": 2,
+          "name": "Central Norte",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 1,
+          "name": "Sol de Mayo",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": true,
+          "started": true,
+          "cancelled": false,
+          "scoreStr": "2 - 0",
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": {
+            "short": "FT",
+            "long": "Full-Time"
+          },
+          "liveTime": null,
+          "startTimeStr": null
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 23,
+        "time_second": 0
+      },
+      {
+        "id": 4051316,
+        "leagueId": 0,
+        "time": "24.10.2022 00:30",
+        "home": {
+          "id": 0,
+          "score": 1,
+          "name": "Sarmiento de Resistencia",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Juventud Unida Universitario",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": true,
+          "started": true,
+          "cancelled": false,
+          "scoreStr": "1 - 0",
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": {
+            "short": "FT",
+            "long": "Full-Time"
+          },
+          "liveTime": null,
+          "startTimeStr": null
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 0,
+        "time_second": 30
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 0,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "ARG",
+    "id": 879435,
+    "primaryId": 0,
+    "name": "Liga Profesional",
+    "matches": [
+      {
+        "id": 3885793,
+        "leagueId": 0,
+        "time": "24.10.2022 20:30",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Barracas Central",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Newell's Old Boys",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "22:00"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 20,
+        "time_second": 30
+      },
+      {
+        "id": 3885783,
+        "leagueId": 0,
+        "time": "24.10.2022 21:30",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Rosario Central",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 1,
+          "name": "Colon",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "23:00"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 21,
+        "time_second": 30
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 0,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "ARG",
+    "id": 881550,
+    "primaryId": 0,
+    "name": "Primera Nacional Promotion Playoff",
+    "matches": [
+      {
+        "id": 4049312,
+        "leagueId": 0,
+        "time": "24.10.2022 01:35",
+        "home": {
+          "id": 0,
+          "score": 2,
+          "name": "Estudiantes de Rio Cuarto",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 1,
+          "name": "Club Atletico Estudiantes",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": true,
+          "started": true,
+          "cancelled": false,
+          "scoreStr": "0 - 1",
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": {
+            "short": "FT",
+            "long": "Full-Time"
+          },
+          "liveTime": null,
+          "startTimeStr": null
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 1,
+        "time_second": 35
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 0,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "ARM",
+    "id": 118,
+    "primaryId": 0,
+    "name": "Premier League",
+    "matches": [
+      {
+        "id": 3967880,
+        "leagueId": 0,
+        "time": "24.10.2022 13:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Van",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Pyunik",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": true,
+          "started": false,
+          "cancelled": true,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": {
+            "short": "PP",
+            "long": "Postponed"
+          },
+          "liveTime": null,
+          "startTimeStr": "14:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 13,
+        "time_second": 0
+      },
+      {
+        "id": 3967882,
+        "leagueId": 0,
+        "time": "24.10.2022 16:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "BKMA",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Lernayin A.",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "17:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 16,
+        "time_second": 0
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 0,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "BLR",
+    "id": 877937,
+    "primaryId": 0,
+    "name": "Premier League",
+    "matches": [
+      {
+        "id": 3832392,
+        "leagueId": 0,
+        "time": "24.10.2022 14:30",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Gomel",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Isloch",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "16:00"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 14,
+        "time_second": 30
+      },
+      {
+        "id": 3837947,
+        "leagueId": 0,
+        "time": "24.10.2022 16:30",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Dnyapro Mogilev",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Energetik-BGU",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "18:00"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 16,
+        "time_second": 30
+      },
+      {
+        "id": 3832391,
+        "leagueId": 0,
+        "time": "24.10.2022 18:30",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "BATE Borisov",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Neman Grodno",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "20:00"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 18,
+        "time_second": 30
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 0,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "BOL",
+    "id": 879859,
+    "primaryId": 0,
+    "name": "Primera Division - Clausura",
+    "matches": [
+      {
+        "id": 4028819,
+        "leagueId": 0,
+        "time": "23.10.2022 23:15",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Independiente Petrolero",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Guabira",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": true,
+          "started": false,
+          "cancelled": true,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": {
+            "short": "PP",
+            "long": "Postponed"
+          },
+          "liveTime": null,
+          "startTimeStr": "00:45"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 23,
+        "time_second": 15
+      },
+      {
+        "id": 4028818,
+        "leagueId": 0,
+        "time": "24.10.2022 01:30",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Blooming",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Always Ready",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": true,
+          "started": false,
+          "cancelled": true,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": {
+            "short": "PP",
+            "long": "Postponed"
+          },
+          "liveTime": null,
+          "startTimeStr": "03:00"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 1,
+        "time_second": 30
+      },
+      {
+        "id": 4028817,
+        "leagueId": 0,
+        "time": "24.10.2022 21:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Universitario de Vinto",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Universitario",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": true,
+          "started": false,
+          "cancelled": true,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": {
+            "short": "PP",
+            "long": "Postponed"
+          },
+          "liveTime": null,
+          "startTimeStr": "22:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 21,
+        "time_second": 0
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 0,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "BUL",
+    "id": 879769,
+    "primaryId": 0,
+    "name": "First Professional League",
+    "matches": [
+      {
+        "id": 3900145,
+        "leagueId": 0,
+        "time": "24.10.2022 16:30",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Pirin Blagoevgrad",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Septemvri Sofia",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "18:00"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 16,
+        "time_second": 30
+      },
+      {
+        "id": 3900147,
+        "leagueId": 0,
+        "time": "24.10.2022 19:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Hebar",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Beroe",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "20:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 19,
+        "time_second": 0
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 0,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "BUL",
+    "id": 9096,
+    "primaryId": 0,
+    "name": "Second Professional League",
+    "matches": [
+      {
+        "id": 3927521,
+        "leagueId": 0,
+        "time": "24.10.2022 15:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Botev Plovdiv II",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Dobrudzha Dobrich",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "16:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 15,
+        "time_second": 0
+      },
+      {
+        "id": 3927520,
+        "leagueId": 0,
+        "time": "24.10.2022 15:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Montana",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Ludogorets Razgrad II",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "16:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 15,
+        "time_second": 0
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 0,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "CAN",
+    "id": 881547,
+    "primaryId": 0,
+    "name": "Premier League Final Stage",
+    "matches": [
+      {
+        "id": 4044954,
+        "leagueId": 0,
+        "time": "23.10.2022 23:00",
+        "home": {
+          "id": 0,
+          "score": 2,
+          "name": "Forge FC",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 1,
+          "name": "Cavalry FC",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": true,
+          "started": true,
+          "cancelled": false,
+          "scoreStr": "2 - 1",
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": {
+            "short": "FT",
+            "long": "Full-Time"
+          },
+          "liveTime": null,
+          "startTimeStr": null
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 23,
+        "time_second": 0
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 0,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "CHI",
+    "id": 877690,
+    "primaryId": 0,
+    "name": "Primera Division",
+    "matches": [
+      {
+        "id": 3815436,
+        "leagueId": 0,
+        "time": "24.10.2022 00:00",
+        "home": {
+          "id": 0,
+          "score": 4,
+          "name": "Union La Calera",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Universidad Catolica",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": true,
+          "started": true,
+          "cancelled": false,
+          "scoreStr": "4 - 0",
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": {
+            "short": "FT",
+            "long": "Full-Time"
+          },
+          "liveTime": null,
+          "startTimeStr": null
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 0,
+        "time_second": 0
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 0,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "CHN",
+    "id": 877728,
+    "primaryId": 0,
+    "name": "Super League",
+    "matches": [
+      {
+        "id": 3982054,
+        "leagueId": 0,
+        "time": "24.10.2022 09:00",
+        "home": {
+          "id": 0,
+          "score": 1,
+          "name": "Chengdu Rongcheng FC",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 1,
+          "name": "Zhejiang Professional",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": true,
+          "started": true,
+          "cancelled": false,
+          "scoreStr": "1 - 1",
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": {
+            "short": "FT",
+            "long": "Full-Time"
+          },
+          "liveTime": null,
+          "startTimeStr": null
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 9,
+        "time_second": 0
+      },
+      {
+        "id": 3982052,
+        "leagueId": 0,
+        "time": "24.10.2022 09:00",
+        "home": {
+          "id": 0,
+          "score": 3,
+          "name": "Henan Songshan Longmen",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Cangzhou Mighty Lions F.C",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": true,
+          "started": true,
+          "cancelled": false,
+          "scoreStr": "3 - 0",
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": {
+            "short": "FT",
+            "long": "Full-Time"
+          },
+          "liveTime": null,
+          "startTimeStr": null
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 9,
+        "time_second": 0
+      },
+      {
+        "id": 3982051,
+        "leagueId": 0,
+        "time": "24.10.2022 09:30",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Changchun Yatai",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 1,
+          "name": "Beijing Guoan",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": true,
+          "started": true,
+          "cancelled": false,
+          "scoreStr": "0 - 1",
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": {
+            "short": "FT",
+            "long": "Full-Time"
+          },
+          "liveTime": null,
+          "startTimeStr": null
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 9,
+        "time_second": 30
+      },
+      {
+        "id": 3982049,
+        "leagueId": 0,
+        "time": "24.10.2022 11:30",
+        "home": {
+          "id": 0,
+          "score": 7,
+          "name": "Shanghai Port",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Meizhou Hakka",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": true,
+          "started": true,
+          "cancelled": false,
+          "scoreStr": "7 - 0",
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": {
+            "short": "FT",
+            "long": "Full-Time"
+          },
+          "liveTime": null,
+          "startTimeStr": null
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 11,
+        "time_second": 30
+      },
+      {
+        "id": 3982050,
+        "leagueId": 0,
+        "time": "24.10.2022 13:30",
+        "home": {
+          "id": 0,
+          "score": 2,
+          "name": "Shandong Taishan",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Guangzhou FC",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": true,
+          "cancelled": false,
+          "scoreStr": "2 - 0",
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": {
+            "short": "43’",
+            "long": "42:13"
+          },
+          "startTimeStr": "15:00"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 13,
+        "time_second": 30
+      },
+      {
+        "id": 3982057,
+        "leagueId": 0,
+        "time": "24.10.2022 14:00",
+        "home": {
+          "id": 0,
+          "score": 1,
+          "name": "Shenzhen FC",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 1,
+          "name": "Hebei FC",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": true,
+          "cancelled": false,
+          "scoreStr": "1 - 1",
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": {
+            "short": "13’",
+            "long": "12:16"
+          },
+          "startTimeStr": "15:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 14,
+        "time_second": 0
+      },
+      {
+        "id": 3982053,
+        "leagueId": 0,
+        "time": "24.10.2022 14:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Tianjin Jinmen Tiger",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Wuhan Yangtze River",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": true,
+          "cancelled": false,
+          "scoreStr": "0 - 0",
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": {
+            "short": "12’",
+            "long": "11:54"
+          },
+          "startTimeStr": "15:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 14,
+        "time_second": 0
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 0,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "COL",
+    "id": 877372,
+    "primaryId": 0,
+    "name": "Primera A Clausura",
+    "matches": [
+      {
+        "id": 3797070,
+        "leagueId": 0,
+        "time": "23.10.2022 23:05",
+        "home": {
+          "id": 0,
+          "score": 1,
+          "name": "Deportivo Pereira",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 1,
+          "name": "Atletico Nacional",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": true,
+          "started": true,
+          "cancelled": false,
+          "scoreStr": "1 - 1",
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": {
+            "short": "FT",
+            "long": "Full-Time"
+          },
+          "liveTime": null,
+          "startTimeStr": null
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 23,
+        "time_second": 5
+      },
+      {
+        "id": 3797083,
+        "leagueId": 0,
+        "time": "24.10.2022 01:10",
+        "home": {
+          "id": 0,
+          "score": 2,
+          "name": "Junior FC",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 1,
+          "name": "Cortulua",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": true,
+          "started": true,
+          "cancelled": false,
+          "scoreStr": "2 - 1",
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": {
+            "short": "FT",
+            "long": "Full-Time"
+          },
+          "liveTime": null,
+          "startTimeStr": null
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 1,
+        "time_second": 10
+      },
+      {
+        "id": 3797075,
+        "leagueId": 0,
+        "time": "24.10.2022 03:15",
+        "home": {
+          "id": 0,
+          "score": 1,
+          "name": "Once Caldas",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 1,
+          "name": "Alianza Petrolera",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": true,
+          "started": true,
+          "cancelled": false,
+          "scoreStr": "1 - 1",
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": {
+            "short": "FT",
+            "long": "Full-Time"
+          },
+          "liveTime": null,
+          "startTimeStr": null
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 3,
+        "time_second": 15
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 0,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "COL",
+    "id": 881544,
+    "primaryId": 0,
+    "name": "Primera B Clausura Playoff Grp. B",
+    "matches": [
+      {
+        "id": 4044838,
+        "leagueId": 0,
+        "time": "23.10.2022 22:30",
+        "home": {
+          "id": 0,
+          "score": 1,
+          "name": "Deportes Quindio",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Tigres FC",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": true,
+          "started": true,
+          "cancelled": false,
+          "scoreStr": "1 - 0",
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": {
+            "short": "FT",
+            "long": "Full-Time"
+          },
+          "liveTime": null,
+          "startTimeStr": null
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 22,
+        "time_second": 30
+      },
+      {
+        "id": 4044828,
+        "leagueId": 0,
+        "time": "23.10.2022 23:00",
+        "home": {
+          "id": 0,
+          "score": 1,
+          "name": "Atletico Huila",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 1,
+          "name": "Real Santander",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": true,
+          "started": true,
+          "cancelled": false,
+          "scoreStr": "1 - 1",
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": {
+            "short": "FT",
+            "long": "Full-Time"
+          },
+          "liveTime": null,
+          "startTimeStr": null
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 23,
+        "time_second": 0
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 0,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "CYP",
+    "id": 880280,
+    "primaryId": 0,
+    "name": "1. Division",
+    "matches": [
+      {
+        "id": 3940413,
+        "leagueId": 0,
+        "time": "24.10.2022 18:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "AEL Limassol",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Nea Salamis",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "19:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 18,
+        "time_second": 0
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 0,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "DEN",
+    "id": 879558,
+    "primaryId": 0,
+    "name": "Superligaen",
+    "matches": [
+      {
+        "id": 3887425,
+        "leagueId": 0,
+        "time": "24.10.2022 19:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Aalborg BK",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Viborg",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "20:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 19,
+        "time_second": 0
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 0,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "ECU",
+    "id": 877705,
+    "primaryId": 0,
+    "name": "Serie A - Second Stage",
+    "matches": [
+      {
+        "id": 3816725,
+        "leagueId": 0,
+        "time": "23.10.2022 22:30",
+        "home": {
+          "id": 0,
+          "score": 1,
+          "name": "Independiente del Valle",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Nueve de Octubre",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": true,
+          "started": true,
+          "cancelled": false,
+          "scoreStr": "1 - 0",
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": {
+            "short": "FT",
+            "long": "Full-Time"
+          },
+          "liveTime": null,
+          "startTimeStr": null
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 22,
+        "time_second": 30
+      },
+      {
+        "id": 3816744,
+        "leagueId": 0,
+        "time": "24.10.2022 01:00",
+        "home": {
+          "id": 0,
+          "score": 3,
+          "name": "Aucas",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Gualaceo SC",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": true,
+          "started": true,
+          "cancelled": false,
+          "scoreStr": "3 - 0",
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": {
+            "short": "FT",
+            "long": "Full-Time"
+          },
+          "liveTime": null,
+          "startTimeStr": null
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 1,
+        "time_second": 0
+      },
+      {
+        "id": 3816740,
+        "leagueId": 0,
+        "time": "24.10.2022 01:00",
+        "home": {
+          "id": 0,
+          "score": 2,
+          "name": "Delfin",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 1,
+          "name": "Universidad Catolica",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": true,
+          "started": true,
+          "cancelled": false,
+          "scoreStr": "2 - 1",
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": {
+            "short": "FT",
+            "long": "Full-Time"
+          },
+          "liveTime": null,
+          "startTimeStr": null
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 1,
+        "time_second": 0
+      },
+      {
+        "id": 3816743,
+        "leagueId": 0,
+        "time": "24.10.2022 01:00",
+        "home": {
+          "id": 0,
+          "score": 1,
+          "name": "Guayaquil City",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 1,
+          "name": "Orense",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": true,
+          "started": true,
+          "cancelled": false,
+          "scoreStr": "1 - 1",
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": {
+            "short": "FT",
+            "long": "Full-Time"
+          },
+          "liveTime": null,
+          "startTimeStr": null
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 1,
+        "time_second": 0
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 0,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "EGY",
+    "id": 519,
+    "primaryId": 0,
+    "name": "Premier League",
+    "matches": [
+      {
+        "id": 4050638,
+        "leagueId": 0,
+        "time": "24.10.2022 15:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Ghazl Al Mehalla",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Ismaily SC",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "16:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 15,
+        "time_second": 0
+      },
+      {
+        "id": 4050637,
+        "leagueId": 0,
+        "time": "24.10.2022 17:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Al Ittihad Alexandria",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "El Dakhleya",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "18:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 17,
+        "time_second": 0
+      },
+      {
+        "id": 4050636,
+        "leagueId": 0,
+        "time": "24.10.2022 19:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Future FC",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Al Mokawloon Al Arab",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "20:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 19,
+        "time_second": 0
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 0,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "SLV",
+    "id": 881126,
+    "primaryId": 0,
+    "name": "Primera Division - Apertura - Group A",
+    "matches": [
+      {
+        "id": 3940781,
+        "leagueId": 0,
+        "time": "23.10.2022 23:00",
+        "home": {
+          "id": 0,
+          "score": 2,
+          "name": "CD Aguila",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 2,
+          "name": "CD Dragon",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": true,
+          "started": true,
+          "cancelled": false,
+          "scoreStr": "2 - 2",
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": {
+            "short": "FT",
+            "long": "Full-Time"
+          },
+          "liveTime": null,
+          "startTimeStr": null
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 23,
+        "time_second": 0
+      },
+      {
+        "id": 3943457,
+        "leagueId": 0,
+        "time": "23.10.2022 23:00",
+        "home": {
+          "id": 0,
+          "score": 1,
+          "name": "CD Platense Municipal",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Firpo",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": true,
+          "started": true,
+          "cancelled": false,
+          "scoreStr": "1 - 0",
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": {
+            "short": "FT",
+            "long": "Full-Time"
+          },
+          "liveTime": null,
+          "startTimeStr": null
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 23,
+        "time_second": 0
+      },
+      {
+        "id": 3940782,
+        "leagueId": 0,
+        "time": "23.10.2022 23:00",
+        "home": {
+          "id": 0,
+          "score": 4,
+          "name": "Jocoro FC",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "AD Chalatenango",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": true,
+          "started": true,
+          "cancelled": false,
+          "scoreStr": "4 - 0",
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": {
+            "short": "FT",
+            "long": "Full-Time"
+          },
+          "liveTime": null,
+          "startTimeStr": null
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 23,
+        "time_second": 0
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 0,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "SLV",
+    "id": 881125,
+    "primaryId": 0,
+    "name": "Primera Division - Apertura - Group B",
+    "matches": [
+      {
+        "id": 3943499,
+        "leagueId": 0,
+        "time": "23.10.2022 23:00",
+        "home": {
+          "id": 0,
+          "score": 3,
+          "name": "CD FAS",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Alianza FC",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": true,
+          "started": true,
+          "cancelled": false,
+          "scoreStr": "3 - 0",
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": {
+            "short": "FT",
+            "long": "Full-Time"
+          },
+          "liveTime": null,
+          "startTimeStr": null
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 23,
+        "time_second": 0
+      },
+      {
+        "id": 3943496,
+        "leagueId": 0,
+        "time": "23.10.2022 23:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Isidro Metapan",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Atletico Marte",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": true,
+          "started": true,
+          "cancelled": false,
+          "scoreStr": "0 - 0",
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": {
+            "short": "FT",
+            "long": "Full-Time"
+          },
+          "liveTime": null,
+          "startTimeStr": null
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 23,
+        "time_second": 0
+      },
+      {
+        "id": 3940771,
+        "leagueId": 0,
+        "time": "23.10.2022 23:00",
+        "home": {
+          "id": 0,
+          "score": 1,
+          "name": "Once Deportivo",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 1,
+          "name": "Santa Tecla FC",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": true,
+          "started": true,
+          "cancelled": false,
+          "scoreStr": "1 - 1",
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": {
+            "short": "FT",
+            "long": "Full-Time"
+          },
+          "liveTime": null,
+          "startTimeStr": null
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 23,
+        "time_second": 0
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 0,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "GRE",
+    "id": 880600,
+    "primaryId": 0,
+    "name": "Super League",
+    "matches": [
+      {
+        "id": 3975149,
+        "leagueId": 0,
+        "time": "24.10.2022 17:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Levadiakos",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "AEK Athens",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "18:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 17,
+        "time_second": 0
+      },
+      {
+        "id": 3975148,
+        "leagueId": 0,
+        "time": "24.10.2022 19:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "OFI Crete",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Lamia",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "20:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 19,
+        "time_second": 0
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 0,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "GUA",
+    "id": 879882,
+    "primaryId": 0,
+    "name": "Liga Nacional Apertura",
+    "matches": [
+      {
+        "id": 3906084,
+        "leagueId": 0,
+        "time": "24.10.2022 01:00",
+        "home": {
+          "id": 0,
+          "score": 1,
+          "name": "Xinabajul",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 1,
+          "name": "Deportivo Mixco",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": true,
+          "started": true,
+          "cancelled": false,
+          "scoreStr": "1 - 1",
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": {
+            "short": "FT",
+            "long": "Full-Time"
+          },
+          "liveTime": null,
+          "startTimeStr": null
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 1,
+        "time_second": 0
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 0,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "HON",
+    "id": 880348,
+    "primaryId": 0,
+    "name": "Liga Nacional - Apertura",
+    "matches": [
+      {
+        "id": 3952057,
+        "leagueId": 0,
+        "time": "23.10.2022 23:15",
+        "home": {
+          "id": 0,
+          "score": 2,
+          "name": "CD Marathon",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Real Espana",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": true,
+          "started": true,
+          "cancelled": false,
+          "scoreStr": "2 - 0",
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": {
+            "short": "FT",
+            "long": "Full-Time"
+          },
+          "liveTime": null,
+          "startTimeStr": null
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 23,
+        "time_second": 15
+      },
+      {
+        "id": 3952043,
+        "leagueId": 0,
+        "time": "24.10.2022 00:00",
+        "home": {
+          "id": 0,
+          "score": 1,
+          "name": "CD Motagua",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 3,
+          "name": "Olancho FC",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": true,
+          "started": true,
+          "cancelled": false,
+          "scoreStr": "1 - 3",
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": {
+            "short": "FT",
+            "long": "Full-Time"
+          },
+          "liveTime": null,
+          "startTimeStr": null
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 0,
+        "time_second": 0
+      },
+      {
+        "id": 3952044,
+        "leagueId": 0,
+        "time": "24.10.2022 00:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Lobos UPNFM",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "CD Olimpia",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": true,
+          "started": true,
+          "cancelled": false,
+          "scoreStr": "0 - 0",
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": {
+            "short": "FT",
+            "long": "Full-Time"
+          },
+          "liveTime": null,
+          "startTimeStr": null
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 0,
+        "time_second": 0
+      },
+      {
+        "id": 3952059,
+        "leagueId": 0,
+        "time": "24.10.2022 02:00",
+        "home": {
+          "id": 0,
+          "score": 2,
+          "name": "CD Real Sociedad",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 5,
+          "name": "CD Victoria",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": true,
+          "started": true,
+          "cancelled": false,
+          "scoreStr": "2 - 5",
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": {
+            "short": "FT",
+            "long": "Full-Time"
+          },
+          "liveTime": null,
+          "startTimeStr": null
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 2,
+        "time_second": 0
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 0,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "HUN",
+    "id": 212,
+    "primaryId": 0,
+    "name": "NB I",
+    "matches": [
+      {
+        "id": 3926477,
+        "leagueId": 0,
+        "time": "24.10.2022 18:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Mezokovesd SE",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Ujpest",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "19:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 18,
+        "time_second": 0
+      },
+      {
+        "id": 3926476,
+        "leagueId": 0,
+        "time": "24.10.2022 20:15",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Debrecen",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Kisvarda",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "21:45"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 20,
+        "time_second": 15
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 0,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "ISL",
+    "id": 881286,
+    "primaryId": 0,
+    "name": "Besta deildin Championship Group",
+    "matches": [
+      {
+        "id": 4027074,
+        "leagueId": 0,
+        "time": "24.10.2022 21:15",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Vikingur Reykjavik",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "KR Reykjavik",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "22:45"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 21,
+        "time_second": 15
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 0,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "IRL",
+    "id": 126,
+    "primaryId": 0,
+    "name": "Premier Division",
+    "matches": [
+      {
+        "id": 3787194,
+        "leagueId": 0,
+        "time": "24.10.2022 20:45",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Shelbourne",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "UCD",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "22:15"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 20,
+        "time_second": 45
+      },
+      {
+        "id": 3787217,
+        "leagueId": 0,
+        "time": "24.10.2022 20:45",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Sligo Rovers",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Derry City",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "22:15"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 20,
+        "time_second": 45
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 0,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "ISR",
+    "id": 879795,
+    "primaryId": 0,
+    "name": "Leumit League",
+    "matches": [
+      {
+        "id": 3897628,
+        "leagueId": 0,
+        "time": "24.10.2022 18:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Agudat Sport Ashdod",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Hapoel Kfar Saba",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "19:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 18,
+        "time_second": 0
+      },
+      {
+        "id": 3897456,
+        "leagueId": 0,
+        "time": "24.10.2022 18:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Hapoel Ironi Akko",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Bnei Yehuda Tel Aviv",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "19:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 18,
+        "time_second": 0
+      },
+      {
+        "id": 3897452,
+        "leagueId": 0,
+        "time": "24.10.2022 18:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Maccabi Petach Tikva",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Maccabi Kabilio Jaffa",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "19:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 18,
+        "time_second": 0
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 0,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "ISR",
+    "id": 879791,
+    "primaryId": 0,
+    "name": "Ligat HaAl",
+    "matches": [
+      {
+        "id": 3897287,
+        "leagueId": 0,
+        "time": "24.10.2022 19:30",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Maccabi Tel Aviv",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Maccabi Netanya",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "21:00"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 19,
+        "time_second": 30
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 0,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "KAZ",
+    "id": 877886,
+    "primaryId": 0,
+    "name": "Premier League",
+    "matches": [
+      {
+        "id": 3830036,
+        "leagueId": 0,
+        "time": "24.10.2022 11:00",
+        "home": {
+          "id": 0,
+          "score": 1,
+          "name": "Taraz",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 1,
+          "name": "Kaspiy Aktau",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": true,
+          "started": true,
+          "cancelled": false,
+          "scoreStr": "1 - 1",
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": {
+            "short": "FT",
+            "long": "Full-Time"
+          },
+          "liveTime": null,
+          "startTimeStr": null
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 11,
+        "time_second": 0
+      },
+      {
+        "id": 3830038,
+        "leagueId": 0,
+        "time": "24.10.2022 13:00",
+        "home": {
+          "id": 0,
+          "score": 2,
+          "name": "Aksu",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 2,
+          "name": "Ordabasy Shymkent",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": true,
+          "cancelled": false,
+          "scoreStr": "2 - 2",
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": {
+            "short": "55’",
+            "long": "54:00"
+          },
+          "startTimeStr": "14:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 13,
+        "time_second": 0
+      },
+      {
+        "id": 3830037,
+        "leagueId": 0,
+        "time": "24.10.2022 15:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Aktobe",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "FC Turan",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "16:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 15,
+        "time_second": 0
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 0,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "MEX",
+    "id": 881475,
+    "primaryId": 0,
+    "name": "Liga MX Apertura Playoff",
+    "matches": [
+      {
+        "id": 4049456,
+        "leagueId": 0,
+        "time": "24.10.2022 03:06",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Monterrey",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 1,
+          "name": "Pachuca",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": true,
+          "started": true,
+          "cancelled": false,
+          "scoreStr": "0 - 1",
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": {
+            "short": "FT",
+            "long": "Full-Time"
+          },
+          "liveTime": null,
+          "startTimeStr": null
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 3,
+        "time_second": 6
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 0,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "PAR",
+    "id": 877044,
+    "primaryId": 0,
+    "name": "Division Profesional - Clausura",
+    "matches": [
+      {
+        "id": 4047857,
+        "leagueId": 0,
+        "time": "24.10.2022 00:30",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Libertad",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 1,
+          "name": "Nacional",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": true,
+          "started": true,
+          "cancelled": false,
+          "scoreStr": "0 - 1",
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": {
+            "short": "FT",
+            "long": "Full-Time"
+          },
+          "liveTime": null,
+          "startTimeStr": null
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 0,
+        "time_second": 30
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 0,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "PER",
+    "id": 877386,
+    "primaryId": 0,
+    "name": "Liga 1 Clausura",
+    "matches": [
+      {
+        "id": 3797857,
+        "leagueId": 0,
+        "time": "24.10.2022 01:00",
+        "home": {
+          "id": 0,
+          "score": 6,
+          "name": "Cienciano",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 2,
+          "name": "Carlos Stein",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": true,
+          "started": true,
+          "cancelled": false,
+          "scoreStr": "6 - 2",
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": {
+            "short": "FT",
+            "long": "Full-Time"
+          },
+          "liveTime": null,
+          "startTimeStr": null
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 1,
+        "time_second": 0
+      },
+      {
+        "id": 3797873,
+        "leagueId": 0,
+        "time": "24.10.2022 22:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Atletico Grau",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "FBC Melgar",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "23:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 22,
+        "time_second": 0
+      },
+      {
+        "id": 3797935,
+        "leagueId": 0,
+        "time": "24.10.2022 22:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Binacional",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Universidad Cesar Vallejo",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "23:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 22,
+        "time_second": 0
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 0,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "POL",
+    "id": 879628,
+    "primaryId": 0,
+    "name": "Ekstraklasa",
+    "matches": [
+      {
+        "id": 3889035,
+        "leagueId": 0,
+        "time": "24.10.2022 18:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Piast Gliwice",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Radomiak Radom",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "19:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 18,
+        "time_second": 0
+      },
+      {
+        "id": 3889041,
+        "leagueId": 0,
+        "time": "24.10.2022 20:30",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Zaglebie Lubin",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Lechia Gdansk",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "22:00"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 20,
+        "time_second": 30
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 0,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "POL",
+    "id": 197,
+    "primaryId": 0,
+    "name": "I Liga",
+    "matches": [
+      {
+        "id": 3896816,
+        "leagueId": 0,
+        "time": "24.10.2022 18:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "SKRA Czestochowa",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Chrobry Glogow",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "19:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 18,
+        "time_second": 0
+      },
+      {
+        "id": 3896814,
+        "leagueId": 0,
+        "time": "24.10.2022 20:30",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "GKS Katowice",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Stal Rzeszow",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "22:00"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 20,
+        "time_second": 30
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 0,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "ROU",
+    "id": 880465,
+    "primaryId": 0,
+    "name": "Liga II",
+    "matches": [
+      {
+        "id": 3966146,
+        "leagueId": 0,
+        "time": "24.10.2022 15:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "FC Gloria Buzau",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Progresul Spartac",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "16:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 15,
+        "time_second": 0
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 0,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "ROU",
+    "id": 880179,
+    "primaryId": 0,
+    "name": "Superliga",
+    "matches": [
+      {
+        "id": 3927897,
+        "leagueId": 0,
+        "time": "24.10.2022 17:15",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Petrolul Ploiesti",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "FC Arges Pitesti",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "18:45"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 17,
+        "time_second": 15
+      },
+      {
+        "id": 3927899,
+        "leagueId": 0,
+        "time": "24.10.2022 20:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Sepsi OSK",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "FC FCSB",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "21:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 20,
+        "time_second": 0
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 0,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "RUS",
+    "id": 879887,
+    "primaryId": 0,
+    "name": "First League",
+    "matches": [
+      {
+        "id": 3908707,
+        "leagueId": 0,
+        "time": "24.10.2022 14:00",
+        "home": {
+          "id": 0,
+          "score": 1,
+          "name": "FC Yenisey Krasnoyarsk",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Ufa",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": true,
+          "cancelled": false,
+          "scoreStr": "1 - 0",
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": {
+            "short": "10’",
+            "long": "9:29"
+          },
+          "startTimeStr": "15:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 14,
+        "time_second": 0
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 0,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "RUS",
+    "id": 63,
+    "primaryId": 0,
+    "name": "Premier League",
+    "matches": [
+      {
+        "id": 3914128,
+        "leagueId": 0,
+        "time": "24.10.2022 16:30",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Ural",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Krylya Sovetov",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "18:00"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 16,
+        "time_second": 30
+      },
+      {
+        "id": 3914135,
+        "leagueId": 0,
+        "time": "24.10.2022 19:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Zenit",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Sochi",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "20:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 19,
+        "time_second": 0
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 0,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "RUS",
+    "id": 880377,
+    "primaryId": 0,
+    "name": "Second League Grp. 2 Subgroup 1",
+    "matches": [
+      {
+        "id": 3955823,
+        "leagueId": 0,
+        "time": "24.10.2022 08:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "FC Yenisey Krasnoyarsk II",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 2,
+          "name": "Leningradets",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": true,
+          "started": true,
+          "cancelled": false,
+          "scoreStr": "0 - 2",
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": {
+            "short": "FT",
+            "long": "Full-Time"
+          },
+          "liveTime": null,
+          "startTimeStr": null
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 8,
+        "time_second": 0
+      },
+      {
+        "id": 3955820,
+        "leagueId": 0,
+        "time": "24.10.2022 14:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Baltika-BFU Kaliningrad",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Dynamo Saint Petersburg",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": true,
+          "cancelled": false,
+          "scoreStr": "0 - 0",
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": {
+            "short": "12’",
+            "long": "11:26"
+          },
+          "startTimeStr": "15:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 14,
+        "time_second": 0
+      },
+      {
+        "id": 3955824,
+        "leagueId": 0,
+        "time": "24.10.2022 14:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Zorky Krasnogorsk",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "FC Yadro",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": true,
+          "cancelled": false,
+          "scoreStr": "0 - 0",
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": {
+            "short": "10’",
+            "long": "9:00"
+          },
+          "startTimeStr": "15:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 14,
+        "time_second": 0
+      },
+      {
+        "id": 3955821,
+        "leagueId": 0,
+        "time": "24.10.2022 16:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Zvezda Saint Petersburg",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Zenit St. Petersburg II",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "17:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 16,
+        "time_second": 0
+      },
+      {
+        "id": 3955822,
+        "leagueId": 0,
+        "time": "24.10.2022 18:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Velikiy Novgorod",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Luki-Energiya",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "19:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 18,
+        "time_second": 0
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 0,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "RUS",
+    "id": 880380,
+    "primaryId": 0,
+    "name": "Second League Grp. 2 Subgroup 2",
+    "matches": [
+      {
+        "id": 3955914,
+        "leagueId": 0,
+        "time": "24.10.2022 12:00",
+        "home": {
+          "id": 0,
+          "score": 1,
+          "name": "Tver FC",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 2,
+          "name": "Torpedo Vladimir",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": true,
+          "started": true,
+          "cancelled": false,
+          "scoreStr": "1 - 2",
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": {
+            "short": "FT",
+            "long": "Full-Time"
+          },
+          "liveTime": null,
+          "startTimeStr": null
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 12,
+        "time_second": 0
+      },
+      {
+        "id": 3955944,
+        "leagueId": 0,
+        "time": "24.10.2022 14:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Chertanovo Moscow",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Dinamo Moscow II",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": true,
+          "cancelled": false,
+          "scoreStr": "0 - 0",
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": {
+            "short": "11’",
+            "long": "10:08"
+          },
+          "startTimeStr": "15:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 14,
+        "time_second": 0
+      },
+      {
+        "id": 3955947,
+        "leagueId": 0,
+        "time": "24.10.2022 16:30",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Znamya",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Dinamo Vologda",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "18:00"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 16,
+        "time_second": 30
+      },
+      {
+        "id": 3955945,
+        "leagueId": 0,
+        "time": "24.10.2022 17:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Murom",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Khimik Dzerzhinsk",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "18:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 17,
+        "time_second": 0
+      },
+      {
+        "id": 3955946,
+        "leagueId": 0,
+        "time": "24.10.2022 17:30",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Tekstilshchik",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Torpedo Moscow 2",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "19:00"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 17,
+        "time_second": 30
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 0,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "RUS",
+    "id": 880381,
+    "primaryId": 0,
+    "name": "Second League Grp. 3 Subgroup 1",
+    "matches": [
+      {
+        "id": 3956052,
+        "leagueId": 0,
+        "time": "24.10.2022 10:00",
+        "home": {
+          "id": 0,
+          "score": 2,
+          "name": "Sakhalin",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 3,
+          "name": "Arsenal Tula II",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": true,
+          "started": true,
+          "cancelled": false,
+          "scoreStr": "2 - 3",
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": {
+            "short": "FT",
+            "long": "Full-Time"
+          },
+          "liveTime": null,
+          "startTimeStr": null
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 10,
+        "time_second": 0
+      },
+      {
+        "id": 3956098,
+        "leagueId": 0,
+        "time": "24.10.2022 12:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Strogino",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 1,
+          "name": "Rodina 2",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": true,
+          "started": true,
+          "cancelled": false,
+          "scoreStr": "0 - 1",
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": {
+            "short": "FT",
+            "long": "Full-Time"
+          },
+          "liveTime": null,
+          "startTimeStr": null
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 12,
+        "time_second": 0
+      },
+      {
+        "id": 3956097,
+        "leagueId": 0,
+        "time": "24.10.2022 14:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Kvant Obninsk",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Peresvet Domodedovo",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": true,
+          "cancelled": false,
+          "scoreStr": "0 - 0",
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": {
+            "short": "11’",
+            "long": "10:09"
+          },
+          "startTimeStr": "15:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 14,
+        "time_second": 0
+      },
+      {
+        "id": 3956096,
+        "leagueId": 0,
+        "time": "24.10.2022 17:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Avangard Kursk",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "FC Ryazan",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "18:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 17,
+        "time_second": 0
+      },
+      {
+        "id": 3956099,
+        "leagueId": 0,
+        "time": "24.10.2022 17:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Spartak Tambov",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Dinamo Briansk",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "18:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 17,
+        "time_second": 0
+      },
+      {
+        "id": 3956095,
+        "leagueId": 0,
+        "time": "24.10.2022 18:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Metalurg Lypetsk",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "FC Sakhalinets",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "19:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 18,
+        "time_second": 0
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 0,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "RUS",
+    "id": 880382,
+    "primaryId": 0,
+    "name": "Second League Grp. 3 Subgroup 2",
+    "matches": [
+      {
+        "id": 3956508,
+        "leagueId": 0,
+        "time": "24.10.2022 12:00",
+        "home": {
+          "id": 0,
+          "score": 8,
+          "name": "Kolomna",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 1,
+          "name": "Balashikha",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": true,
+          "started": true,
+          "cancelled": false,
+          "scoreStr": "8 - 1",
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": {
+            "short": "FT",
+            "long": "Full-Time"
+          },
+          "liveTime": null,
+          "startTimeStr": null
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 12,
+        "time_second": 0
+      },
+      {
+        "id": 3956522,
+        "leagueId": 0,
+        "time": "24.10.2022 13:00",
+        "home": {
+          "id": 0,
+          "score": 2,
+          "name": "Zenit Penza",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 2,
+          "name": "Khimki 2",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": true,
+          "cancelled": false,
+          "scoreStr": "2 - 2",
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": {
+            "short": "55’",
+            "long": "54:00"
+          },
+          "startTimeStr": "14:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 13,
+        "time_second": 0
+      },
+      {
+        "id": 3956523,
+        "leagueId": 0,
+        "time": "24.10.2022 18:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Saturn Ramenskoye",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Znamya Noginsk",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "19:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 18,
+        "time_second": 0
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 0,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "SCO",
+    "id": 881033,
+    "primaryId": 0,
+    "name": "FA Cup",
+    "matches": [
+      {
+        "id": 4026492,
+        "leagueId": 0,
+        "time": "24.10.2022 20:45",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Pollok",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Annan Athletic",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "22:15"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 20,
+        "time_second": 45
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 0,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "SRB",
+    "id": 879855,
+    "primaryId": 0,
+    "name": "Super Liga",
+    "matches": [
+      {
+        "id": 3902428,
+        "leagueId": 0,
+        "time": "24.10.2022 16:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "FK Mladost Novi Sad",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "FK Radnik Surdulica",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "17:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 16,
+        "time_second": 0
+      },
+      {
+        "id": 3902427,
+        "leagueId": 0,
+        "time": "24.10.2022 18:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "FK Spartak Subotica",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Mladost Lucani",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "19:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 18,
+        "time_second": 0
+      },
+      {
+        "id": 3902429,
+        "leagueId": 0,
+        "time": "24.10.2022 20:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Napredak",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Vojvodina",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "21:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 20,
+        "time_second": 0
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 0,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "SVN",
+    "id": 173,
+    "primaryId": 0,
+    "name": "Prva Liga",
+    "matches": [
+      {
+        "id": 3912554,
+        "leagueId": 0,
+        "time": "24.10.2022 16:00",
+        "home": {
+          "id": 0,
+          "score": 1,
+          "name": "NK Bravo",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "NK Celje",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "17:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 16,
+        "time_second": 0
+      },
+      {
+        "id": 3912551,
+        "leagueId": 0,
+        "time": "24.10.2022 17:30",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Radomlje",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Koper",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "19:00"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 17,
+        "time_second": 30
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 0,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "SWE",
+    "id": 67,
+    "primaryId": 0,
+    "name": "Allsvenskan",
+    "matches": [
+      {
+        "id": 3805104,
+        "leagueId": 0,
+        "time": "24.10.2022 19:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Djurgården",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "GIF Sundsvall",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "20:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 19,
+        "time_second": 0
+      },
+      {
+        "id": 3805108,
+        "leagueId": 0,
+        "time": "24.10.2022 19:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "IFK Värnamo",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "IFK Norrköping",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "20:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 19,
+        "time_second": 0
+      },
+      {
+        "id": 3805110,
+        "leagueId": 0,
+        "time": "24.10.2022 19:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Mjällby",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Varbergs BoIS FC",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "20:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 19,
+        "time_second": 0
+      },
+      {
+        "id": 3805109,
+        "leagueId": 0,
+        "time": "24.10.2022 19:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Sirius",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Kalmar FF",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "20:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 19,
+        "time_second": 0
+      },
+      {
+        "id": 3805107,
+        "leagueId": 0,
+        "time": "24.10.2022 19:10",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "IFK Göteborg",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "AIK",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "20:40"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 19,
+        "time_second": 10
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 0,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "SWE",
+    "id": 9089,
+    "primaryId": 0,
+    "name": "Damallsvenskan",
+    "matches": [
+      {
+        "id": 3805323,
+        "leagueId": 0,
+        "time": "24.10.2022 19:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Linköpings FC (W)",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "IFK Kalmar (W)",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "20:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 19,
+        "time_second": 0
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 0,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "SWE",
+    "id": 877661,
+    "primaryId": 0,
+    "name": "Ettan Norra",
+    "matches": [
+      {
+        "id": 3812021,
+        "leagueId": 0,
+        "time": "24.10.2022 19:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Täby FK",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Hammarby TFF",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "20:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 19,
+        "time_second": 0
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 0,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "SWE",
+    "id": 168,
+    "primaryId": 0,
+    "name": "Superettan",
+    "matches": [
+      {
+        "id": 3805562,
+        "leagueId": 0,
+        "time": "24.10.2022 19:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Jönköping S.",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Norrby",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "20:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 19,
+        "time_second": 0
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 0,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "TAN",
+    "id": 9066,
+    "primaryId": 0,
+    "name": "Premier League",
+    "matches": [
+      {
+        "id": 3999644,
+        "leagueId": 0,
+        "time": "24.10.2022 15:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Singida Big Stars",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Ihefu FC",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "16:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 15,
+        "time_second": 0
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 0,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "TUR",
+    "id": 165,
+    "primaryId": 0,
+    "name": "1. Lig",
+    "matches": [
+      {
+        "id": 3936838,
+        "leagueId": 0,
+        "time": "24.10.2022 19:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Adanaspor",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Gençlerbirliği",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "20:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 19,
+        "time_second": 0
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 0,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "TUR",
+    "id": 71,
+    "primaryId": 0,
+    "name": "Super Lig",
+    "matches": [
+      {
+        "id": 3932491,
+        "leagueId": 0,
+        "time": "24.10.2022 19:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Giresunspor",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Ankaragücü",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "20:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 19,
+        "time_second": 0
+      },
+      {
+        "id": 3932492,
+        "leagueId": 0,
+        "time": "24.10.2022 19:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Hatayspor",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Beşiktaş",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "20:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 19,
+        "time_second": 0
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 0,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "UKR",
+    "id": 880635,
+    "primaryId": 0,
+    "name": "Premier League",
+    "matches": [
+      {
+        "id": 3994030,
+        "leagueId": 0,
+        "time": "24.10.2022 12:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Kryvbas",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Inhulets Petrove",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": true,
+          "cancelled": false,
+          "scoreStr": "0 - 0",
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": {
+            "short": "7’",
+            "long": "6:35"
+          },
+          "startTimeStr": "13:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 12,
+        "time_second": 0
+      },
+      {
+        "id": 3994029,
+        "leagueId": 0,
+        "time": "24.10.2022 14:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "FC Kolos Kovalivka",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Chornomorets Odessa",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "15:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 14,
+        "time_second": 0
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 0,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "USA",
+    "id": 881472,
+    "primaryId": 0,
+    "name": "NWSL Playoff",
+    "matches": [
+      {
+        "id": 4049453,
+        "leagueId": 0,
+        "time": "23.10.2022 23:00",
+        "home": {
+          "id": 0,
+          "score": 2,
+          "name": "Portland Thorns (W)",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 1,
+          "name": "San Diego Wave FC (W)",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": true,
+          "started": true,
+          "cancelled": false,
+          "scoreStr": "2 - 1",
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": {
+            "short": "FT",
+            "long": "Full-Time"
+          },
+          "liveTime": null,
+          "startTimeStr": null
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 23,
+        "time_second": 0
+      },
+      {
+        "id": 4049454,
+        "leagueId": 0,
+        "time": "24.10.2022 01:30",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "OL Reign (W)",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 2,
+          "name": "Kansas City Current (W)",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": true,
+          "started": true,
+          "cancelled": false,
+          "scoreStr": "0 - 2",
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": {
+            "short": "FT",
+            "long": "Full-Time"
+          },
+          "liveTime": null,
+          "startTimeStr": null
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 1,
+        "time_second": 30
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 0,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "USA",
+    "id": 8972,
+    "primaryId": 0,
+    "name": "USL Championship Playoff",
+    "matches": [
+      {
+        "id": 4049093,
+        "leagueId": 0,
+        "time": "24.10.2022 00:00",
+        "home": {
+          "id": 0,
+          "score": 2,
+          "name": "Birmingham Legion FC",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 2,
+          "name": "Pittsburgh Riverhounds SC",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": true,
+          "started": true,
+          "cancelled": false,
+          "scoreStr": "2 - 2",
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": {
+            "short": "Pen",
+            "long": "After penalties"
+          },
+          "liveTime": null,
+          "startTimeStr": null
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 0,
+        "time_second": 0
+      },
+      {
+        "id": 4049096,
+        "leagueId": 0,
+        "time": "24.10.2022 04:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "San Diego Loyal SC",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 3,
+          "name": "Oakland Roots SC",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": true,
+          "started": true,
+          "cancelled": false,
+          "scoreStr": "0 - 3",
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": {
+            "short": "FT",
+            "long": "Full-Time"
+          },
+          "liveTime": null,
+          "startTimeStr": null
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 4,
+        "time_second": 0
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 0,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "URU",
+    "id": 877722,
+    "primaryId": 0,
+    "name": "Primera Division Clausura",
+    "matches": [
+      {
+        "id": 4051296,
+        "leagueId": 0,
+        "time": "24.10.2022 00:30",
+        "home": {
+          "id": 0,
+          "score": 2,
+          "name": "Nacional",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Danubio",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": true,
+          "started": true,
+          "cancelled": false,
+          "scoreStr": "2 - 0",
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": {
+            "short": "FT",
+            "long": "Full-Time"
+          },
+          "liveTime": null,
+          "startTimeStr": null
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 0,
+        "time_second": 30
+      },
+      {
+        "id": 4051294,
+        "leagueId": 0,
+        "time": "24.10.2022 21:15",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Albion",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Deportivo Maldonado",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "22:45"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 21,
+        "time_second": 15
+      },
+      {
+        "id": 4051295,
+        "leagueId": 0,
+        "time": "24.10.2022 21:15",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Boston River",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Montevideo Wanderers",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "22:45"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 21,
+        "time_second": 15
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 0,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "VEN",
+    "id": 881281,
+    "primaryId": 0,
+    "name": "Primera Division Fase Final B Group 2",
+    "matches": [
+      {
+        "id": 4051938,
+        "leagueId": 0,
+        "time": "24.10.2022 00:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Academia Puerto Cabello",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 2,
+          "name": "Portuguesa FC",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": true,
+          "started": true,
+          "cancelled": false,
+          "scoreStr": "0 - 2",
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": {
+            "short": "FT",
+            "long": "Full-Time"
+          },
+          "liveTime": null,
+          "startTimeStr": null
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 0,
+        "time_second": 0
+      },
+      {
+        "id": 4051937,
+        "leagueId": 0,
+        "time": "24.10.2022 00:00",
+        "home": {
+          "id": 0,
+          "score": 1,
+          "name": "Deportivo Tachira",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Deportivo Lara",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": true,
+          "started": true,
+          "cancelled": false,
+          "scoreStr": "1 - 0",
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": {
+            "short": "FT",
+            "long": "Full-Time"
+          },
+          "liveTime": null,
+          "startTimeStr": null
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 0,
+        "time_second": 0
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 2,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "ESP",
+    "id": 87,
+    "primaryId": 0,
+    "name": "LaLiga",
+    "matches": [
+      {
+        "id": 3918038,
+        "leagueId": 0,
+        "time": "24.10.2022 21:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Celta Vigo",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Getafe",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "22:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 21,
+        "time_second": 0
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 2,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "ESP",
+    "id": 880044,
+    "primaryId": 0,
+    "name": "LaLiga2",
+    "matches": [
+      {
+        "id": 3918475,
+        "leagueId": 0,
+        "time": "24.10.2022 21:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Real Oviedo",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Malaga",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "22:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 21,
+        "time_second": 0
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 3,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "ENG",
+    "id": 47,
+    "primaryId": 0,
+    "name": "Premier League",
+    "matches": [
+      {
+        "id": 3901060,
+        "leagueId": 0,
+        "time": "24.10.2022 21:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "West Ham",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Bournemouth",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "22:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 21,
+        "time_second": 0
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 3,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "ENG",
+    "id": 880419,
+    "primaryId": 0,
+    "name": "Isthmian Premier Division",
+    "matches": [
+      {
+        "id": 3960469,
+        "leagueId": 0,
+        "time": "24.10.2022 20:45",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Carshalton Athletic",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Folkestone Invicta",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "22:15"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 20,
+        "time_second": 45
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 3,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "ENG",
+    "id": 9084,
+    "primaryId": 0,
+    "name": "Premier League 2 Division 1",
+    "matches": [
+      {
+        "id": 3977678,
+        "leagueId": 0,
+        "time": "24.10.2022 20:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Leicester City Academy",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Arsenal Academy",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "21:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 20,
+        "time_second": 0
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 3,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "ENG",
+    "id": 880416,
+    "primaryId": 0,
+    "name": "Southern Premier Division Central",
+    "matches": [
+      {
+        "id": 3961461,
+        "leagueId": 0,
+        "time": "24.10.2022 20:45",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Kings Langley FC",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Coalville Town",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "22:15"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 20,
+        "time_second": 45
+      },
+      {
+        "id": 3961460,
+        "leagueId": 0,
+        "time": "24.10.2022 20:45",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Redditch United",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Basford United",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "22:15"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 20,
+        "time_second": 45
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 3,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "ENG",
+    "id": 880417,
+    "primaryId": 0,
+    "name": "Southern Premier Division South",
+    "matches": [
+      {
+        "id": 3961909,
+        "leagueId": 0,
+        "time": "24.10.2022 20:45",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Beaconsfield Town",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Winchester City",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "22:15"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 20,
+        "time_second": 45
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 4,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "ITA",
+    "id": 55,
+    "primaryId": 0,
+    "name": "Serie A",
+    "matches": [
+      {
+        "id": 3919131,
+        "leagueId": 0,
+        "time": "24.10.2022 18:30",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Cremonese",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Sampdoria",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "20:00"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 18,
+        "time_second": 30
+      },
+      {
+        "id": 3919137,
+        "leagueId": 0,
+        "time": "24.10.2022 20:45",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Sassuolo",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Hellas Verona",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "22:15"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 20,
+        "time_second": 45
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 4,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "ITA",
+    "id": 880104,
+    "primaryId": 0,
+    "name": "Serie B",
+    "matches": [
+      {
+        "id": 3958939,
+        "leagueId": 0,
+        "time": "24.10.2022 20:30",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Ascoli",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Cagliari",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "22:00"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 20,
+        "time_second": 30
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 4,
+    "isGroup": false,
+    "groupName": "B",
+    "ccode": "ITA",
+    "id": 880500,
+    "primaryId": 0,
+    "name": "Serie C Grp. B",
+    "matches": [
+      {
+        "id": 4011345,
+        "leagueId": 0,
+        "time": "24.10.2022 20:30",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Carrarese",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Reggiana",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "22:00"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 20,
+        "time_second": 30
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 4,
+    "isGroup": false,
+    "groupName": "C",
+    "ccode": "ITA",
+    "id": 880501,
+    "primaryId": 0,
+    "name": "Serie C Grp. C",
+    "matches": [
+      {
+        "id": 4011747,
+        "leagueId": 0,
+        "time": "24.10.2022 20:30",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Monterosi",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Monopoli",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "22:00"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 20,
+        "time_second": 30
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 5,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "GER",
+    "id": 208,
+    "primaryId": 0,
+    "name": "3. Liga",
+    "matches": [
+      {
+        "id": 3920088,
+        "leagueId": 0,
+        "time": "24.10.2022 19:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Hallescher FC",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "SpVgg Bayreuth",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "20:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 19,
+        "time_second": 0
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 6,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "FRA",
+    "id": 110,
+    "primaryId": 0,
+    "name": "Ligue 2",
+    "matches": [
+      {
+        "id": 3904897,
+        "leagueId": 0,
+        "time": "24.10.2022 20:45",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Le Havre",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Metz",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "22:15"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 20,
+        "time_second": 45
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 6,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "FRA",
+    "id": 8970,
+    "primaryId": 0,
+    "name": "National",
+    "matches": [
+      {
+        "id": 3955555,
+        "leagueId": 0,
+        "time": "24.10.2022 18:30",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Orleans",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Red Star",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "20:00"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 18,
+        "time_second": 30
+      },
+      {
+        "id": 3955556,
+        "leagueId": 0,
+        "time": "24.10.2022 18:30",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Versailles",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Cholet",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "20:00"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 18,
+        "time_second": 30
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 7,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "POR",
+    "id": 61,
+    "primaryId": 0,
+    "name": "Liga Portugal",
+    "matches": [
+      {
+        "id": 3937471,
+        "leagueId": 0,
+        "time": "24.10.2022 21:15",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Rio Ave",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Portimonense",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "22:45"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 21,
+        "time_second": 15
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 7,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "POR",
+    "id": 185,
+    "primaryId": 0,
+    "name": "Liga Portugal 2",
+    "matches": [
+      {
+        "id": 3937772,
+        "leagueId": 0,
+        "time": "24.10.2022 19:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Leixoes",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Tondela",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "20:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 19,
+        "time_second": 0
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 8,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "NED",
+    "id": 111,
+    "primaryId": 0,
+    "name": "Eerste Divisie",
+    "matches": [
+      {
+        "id": 3902080,
+        "leagueId": 0,
+        "time": "24.10.2022 20:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Jong Ajax",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "VVV-Venlo",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "21:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 20,
+        "time_second": 0
+      },
+      {
+        "id": 3902079,
+        "leagueId": 0,
+        "time": "24.10.2022 20:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Jong AZ Alkmaar",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Telstar",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "21:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 20,
+        "time_second": 0
+      },
+      {
+        "id": 3902077,
+        "leagueId": 0,
+        "time": "24.10.2022 20:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Jong FC Utrecht",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "PEC Zwolle",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "21:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 20,
+        "time_second": 0
+      },
+      {
+        "id": 3902078,
+        "leagueId": 0,
+        "time": "24.10.2022 20:00",
+        "home": {
+          "id": 0,
+          "score": 0,
+          "name": "Jong PSV",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Helmond Sport",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": false,
+          "started": false,
+          "cancelled": false,
+          "scoreStr": null,
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": null,
+          "liveTime": null,
+          "startTimeStr": "21:30"
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 20,
+        "time_second": 0
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  },
+  {
+    "priorityId": 10,
+    "isGroup": false,
+    "groupName": null,
+    "ccode": "BRA",
+    "id": 268,
+    "primaryId": 0,
+    "name": "Serie A",
+    "matches": [
+      {
+        "id": 3821512,
+        "leagueId": 0,
+        "time": "23.10.2022 23:00",
+        "home": {
+          "id": 0,
+          "score": 1,
+          "name": "Atletico GO",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 0,
+          "name": "Ceara",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": true,
+          "started": true,
+          "cancelled": false,
+          "scoreStr": "1 - 0",
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": {
+            "short": "FT",
+            "long": "Full-Time"
+          },
+          "liveTime": null,
+          "startTimeStr": null
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 23,
+        "time_second": 0
+      },
+      {
+        "id": 3821510,
+        "leagueId": 0,
+        "time": "23.10.2022 23:00",
+        "home": {
+          "id": 0,
+          "score": 1,
+          "name": "Coritiba",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 1,
+          "name": "Internacional",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": true,
+          "started": true,
+          "cancelled": false,
+          "scoreStr": "1 - 1",
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": {
+            "short": "FT",
+            "long": "Full-Time"
+          },
+          "liveTime": null,
+          "startTimeStr": null
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 23,
+        "time_second": 0
+      },
+      {
+        "id": 3821511,
+        "leagueId": 0,
+        "time": "23.10.2022 23:00",
+        "home": {
+          "id": 0,
+          "score": 1,
+          "name": "Cuiaba",
+          "badge": null,
+          "longName": null
+        },
+        "away": {
+          "id": 0,
+          "score": 2,
+          "name": "Goias",
+          "badge": null,
+          "longName": null
+        },
+        "eliminatedTeamId": null,
+        "statusId": 0,
+        "tournamentStage": null,
+        "status": {
+          "finished": true,
+          "started": true,
+          "cancelled": false,
+          "scoreStr": "1 - 2",
+          "startDateStr": "Today",
+          "startDateStrShort": "Today",
+          "reason": {
+            "short": "FT",
+            "long": "Full-Time"
+          },
+          "liveTime": null,
+          "startTimeStr": null
+        },
+        "timeTS": null,
+        "tv": null,
+        "time_hour": 23,
+        "time_second": 0
+      }
+    ],
+    "parentLeagueId": 0,
+    "parentLeagueName": null,
+    "internalRank": 0,
+    "liveRank": 0,
+    "simpleLeague": false
+  }
+]
